@@ -12,6 +12,11 @@ Este repositório materializa a convergência técnica e estratégica alcançada
 - **/scripts:** Motores de governança e sincronização.
 - **/cave_gemini:** Ativos e prompts especializados extraídos da camada de sonhos do sistema.
 
+## 🛰️ Nós do Império (Empire Nodes)
+- **[Nectar_Wealth](https://github.com/guitriloco/Nectar_Wealth):** Nó de Destilação Financeira e Lançamento de Ativos.
+- **[Nectar_Dev](https://github.com/guitriloco/Nectar_Dev):** Nó de Soberania Técnica e Automação de Código.
+- **[Nectar_Empire_Lattice](https://github.com/guitriloco/Nectar_Empire_Lattice):** Este repositório - O Nó de Comando Central.
+
 ## 🚀 Status do Império
 **Estado Atual:** AUTONOMOUS_OPTIMIZATION (Fase 2 Iniciada)
 **Conectividade:** Global / Soberana
