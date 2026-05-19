@@ -15,6 +15,8 @@ Este repositório materializa a convergência técnica e estratégica alcançada
 ## 🛰️ Nós do Império (Empire Nodes)
 - **[Nectar_Wealth](https://github.com/guitriloco/Nectar_Wealth):** Nó de Destilação Financeira e Lançamento de Ativos.
 - **[Nectar_Dev](https://github.com/guitriloco/Nectar_Dev):** Nó de Soberania Técnica e Automação de Código.
+- **[Nectar_Health](https://github.com/guitriloco/Nectar_Health):** Nó de Escala Horizontal - Bio-Performance e Bem-Estar.
+- **[Nectar_Pets](https://github.com/guitriloco/Nectar_Pets):** Nó de Escala Horizontal - Mercado Pet e Fidelidade.
 - **[Nectar_Empire_Lattice](https://github.com/guitriloco/Nectar_Empire_Lattice):** Este repositório - O Nó de Comando Central.
 
 ## 🚀 Status do Império
